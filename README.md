@@ -1,13 +1,11 @@
 ### Hi there 👋
-<a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=the4rcanist&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</a>
-<a>
+
+[![The 4rcanist's GitHub stats](https://github-readme-stats.vercel.app/api?username=the4rcanist&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the4rcanist&langs_count=5&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</a>
-<a>
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=the4rcanist)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+
 
 
 
