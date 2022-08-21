@@ -14,8 +14,22 @@ credits <a href="https://twitter.com/apostrophe_dot">APO+</a>
     "Capivara do Mato Grosso do Sul, nasceu com um computador no berço, aprendeu à entrar nos joguinho de Flash da Internet no mesmo ano que aprendeu à subir em pé de manga. Estudante de Ciências da Computação na UNIFACVEST."
     </p>
 <br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=the4rcanist&show_icons=true&theme=tokyonight" />
+</a>
 <br>
-<br>
+
+💡<strong>Some things about me</strong>
+- I am currently working on <a href="https://github.com/the4rcanist/Cyberpunk-Corporations-Websites">Cyberpunk Corporations Websites</a> and <a href="https://github.com/the4rcanist/cyberpunk77-ingame-websites">Cyberpunk77 ingame websites</a>
+- Currently Learning some Front End stuff
+- I am learning Japanese, French and Spanish on <img witdth="30%" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/>
+- Current doing the 100 days of code in Python
+- Current Dnd Class: Warlock
+- Curent Cyberpunk 2020 Role: Netrunner
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the4rcanist&langs_count=5&theme=tokyonight&layout=compact" />
+</a>
 
 🛠<strong>IDE's I mainly use/used</strong>:
 <br>
@@ -25,6 +39,7 @@ credits <a href="https://twitter.com/apostrophe_dot">APO+</a>
 <br>
 <img witdth="30%" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+
 
 💻<strong>OS's</strong>
 <br>
@@ -36,8 +51,16 @@ credits <a href="https://twitter.com/apostrophe_dot">APO+</a>
 <img witdth="30%" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=the4rcanist&theme=tokyonight" />
+</a>
 
-💡<strong>Some things about me</strong>
+🔍<strong>Browsers</strong>
+<br>
+    <img witdth="30%" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
+    <img witdth="30%" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
+    <img witdth="30%" src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/>
+
 <!--Playstore when I finish it
 - I create Android games for CRYOGEN on
 https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white and 
@@ -176,3 +199,38 @@ https://aleen42.github.io/badges/src/reddit.svg-->
 <img witdth="30%" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/>
 
+<!-- Other stuf
+- Wanna pay me a coffee?
+https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
+
+https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white
+
+https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white
+
+https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
+
+https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white
+
+https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white
+
+https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white
+
+https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white
+
+- You can find my soundtracks on:
+https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white
+https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white
+https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white
+-->
+
+📚<strong>Current Learning on:</strong>
+<br>
+<img witdth="30%" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"/>
+<img witdth="30%" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
+<img witdth="30%" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+<br>
+<img witdth="30%" src="https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=white"/>
+<img witdth="30%" src="https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white"/>
+<img witdth="30%" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE"/>
+<img witdth="30%" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
