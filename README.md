@@ -1,6 +1,6 @@
 ### Hello there 👋
 <p align="center" width="100%">
-    <img width="33%" src="https://p5.itc.cn/q_70/images01/20210827/c18bb5b3e729498c86cfc11f9aa7ccc7.gif">
+    <img width="70%" src="https://i.pinimg.com/originals/53/c9/a0/53c9a0a2df65340fd6aa86ebbd42dc80.gif">
 </p>
 
 
