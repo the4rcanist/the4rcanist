@@ -26,6 +26,14 @@ credits <a href="https://twitter.com/apostrophe_dot">APO+</a>
 - Current doing the 100 days of code in Python
 - Current Dnd Class: Warlock
 - Curent Cyberpunk 2020 Role: Netrunner
+- And I often play on
+<img witdth="30%" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
+<img witdth="30%" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
+<img witdth="30%" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+
+
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the4rcanist&langs_count=5&theme=tokyonight&layout=compact" />
@@ -40,8 +48,7 @@ credits <a href="https://twitter.com/apostrophe_dot">APO+</a>
 <img witdth="30%" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
-
-💻<strong>OS's</strong>
+💻<strong>OS's:</strong>
 <br>
 <img witdth="30%" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
@@ -50,6 +57,9 @@ credits <a href="https://twitter.com/apostrophe_dot">APO+</a>
 <img witdth="30%" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=the4rcanist&theme=tokyonight" />
@@ -60,6 +70,7 @@ credits <a href="https://twitter.com/apostrophe_dot">APO+</a>
     <img witdth="30%" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
     <img witdth="30%" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
     <img witdth="30%" src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/>
+    
 
 <!--Playstore when I finish it
 - I create Android games for CRYOGEN on
@@ -87,7 +98,7 @@ https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&log
 
 🌻<strong>Find me on:</strong>
 
-<a href="https://www.behance.net/marypamplona"><img witdth="30%" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a> - Sharing some graphic design experiments and some interfaces.
+<a href="https://www.behance.net/marypamplona"><img witdth="30%" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a> - Sharing some graphic design and interfaces experiments.
 <br>
 <a href="https://www.deviantart.com/arcaneebrush"><img witdth="30%" src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white"/></a> - Where I stash my digital art.
 <br>
@@ -104,6 +115,8 @@ https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&log
 <a href="https://twitter.com/the4rcanist"><img witdth="30%" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> - being weird 2.0, also share sketches and art stuff.
 <br>
 
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--Gmail e proton
 Gmail badge seguido do gmailhttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
@@ -184,6 +197,9 @@ https://aleen42.github.io/badges/src/reddit.svg-->
 <img witdth="30%" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 
 
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 🎨<strong>Art Stack</strong>:
 <br>
 <img witdth="30%" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
@@ -198,6 +214,9 @@ https://aleen42.github.io/badges/src/reddit.svg-->
 <img witdth="30%" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/>
+
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- Other stuf
 - Wanna pay me a coffee?
