@@ -15,8 +15,10 @@ credits <a href="https://twitter.com/apostrophe_dot">APO+</a>
     </p>
 <br>
 <br>
+ – – – – -
+ <br>
 
-🛠<b>IDE's I mainly use/used:</b>
+🛠<strong>IDE's I mainly use/used</strong>:
 <br>
 <img witdth="30%" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
@@ -25,7 +27,7 @@ credits <a href="https://twitter.com/apostrophe_dot">APO+</a>
 <img witdth="30%" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
-💻<b>OS's</b>
+💻<strong>OS's</strong>
 <br>
 <img witdth="30%" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
@@ -36,7 +38,7 @@ credits <a href="https://twitter.com/apostrophe_dot">APO+</a>
 <img witdth="30%" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 
-💡<b>Some things about me</b>
+💡<strong>Some things about me</strong>
 <!--Playstore when I finish it
 - I create Android games for CRYOGEN on
 https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white and 
@@ -49,6 +51,64 @@ https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&l
 https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 and on my personal website running on 
 https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow
+-->
+
+<!--Gumroad when I finish it
+- Every one of my brushes, resources and etc are on https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white
+-->
+
+<!--Animations when I finish them
+- You can find my animations on https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white
+https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white
+-->
+
+🌻<strong>Find me on:</strong>
+
+<a href="https://www.behance.net/marypamplona"><img witdth="30%" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
+<a href="https://www.deviantart.com/arcaneebrush"><img witdth="30%" src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white"/></a>
+<a href="https://www.pinterest.com/the4rcanist/"><img witdth="30%" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/></a>
+<br>
+
+<a href="https://www.instagram.com/the4rcanist/"><img witdth="30%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mary-pamplona-96a609172/"><img witdth="30%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.reddit.com/user/the4rcanist"><img witdth="30%" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+<br>
+
+
+<!--Gmail e proton
+Gmail badge seguido do gmailhttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+Proton mail seguido do email
+https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
+-->
+
+<!-- Code challenges
+Codechef seguido do user
+https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white
+
+Codeforces seguido do user
+https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white
+
+Codepen seguido do user
+https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
+
+Codewards seguido do user
+https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
+-->
+
+<!--Hackearth e Rank
+Hackerearth seguido do user
+https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue
+
+Hackerrank seguido do user
+https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
+-->
+
+<!--Kaggle
+https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
+
+Leetcode
+https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
 -->
 
 
