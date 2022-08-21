@@ -15,8 +15,7 @@ credits <a href="https://twitter.com/apostrophe_dot">APO+</a>
     </p>
 <br>
 <br>
- – – – – -
- <br>
+<br>
 
 🛠<strong>IDE's I mainly use/used</strong>:
 <br>
@@ -51,6 +50,7 @@ https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&l
 https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 and on my personal website running on 
 https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow
+
 -->
 
 <!--Gumroad when I finish it
@@ -64,14 +64,21 @@ https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&log
 
 🌻<strong>Find me on:</strong>
 
-<a href="https://www.behance.net/marypamplona"><img witdth="30%" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
-<a href="https://www.deviantart.com/arcaneebrush"><img witdth="30%" src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white"/></a>
-<a href="https://www.pinterest.com/the4rcanist/"><img witdth="30%" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/marypamplona"><img witdth="30%" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a> - Sharing some graphic design experiments and some interfaces.
 <br>
-
-<a href="https://www.instagram.com/the4rcanist/"><img witdth="30%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mary-pamplona-96a609172/"><img witdth="30%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.reddit.com/user/the4rcanist"><img witdth="30%" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+<a href="https://www.deviantart.com/arcaneebrush"><img witdth="30%" src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white"/></a> - Where I stash my digital art.
+<br>
+<a href="https://www.pinterest.com/the4rcanist/"><img witdth="30%" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/></a> - Where I save and share inspirations but also tutorials I find around the interwebs.
+<br>
+<a href="https://www.instagram.com/the4rcanist/"><img witdth="30%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> - Where I also stash my digital art plus some cat pictures.
+<br>
+<a href="https://www.linkedin.com/in/mary-pamplona-96a609172/"><img witdth="30%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> - well it's necessary isn't it
+<br>
+<a href="https://www.reddit.com/user/the4rcanist"><img witdth="30%" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a> - commenting
+<br>
+<a href="https://the4rcanist.tumblr.com/"><img witdth="30%" src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"/></a> - being weird, also stash my digital art and sketchings there.
+<br>
+<a href="https://twitter.com/the4rcanist"><img witdth="30%" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> - being weird 2.0, also share sketches and art stuff.
 <br>
 
 
@@ -80,6 +87,12 @@ Gmail badge seguido do gmailhttps://img.shields.io/badge/Gmail-D14836?style=for-
 
 Proton mail seguido do email
 https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
+
+Twitch
+https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
+
+Youtube
+https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 -->
 
 <!-- Code challenges
@@ -94,6 +107,18 @@ https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&log
 
 Codewards seguido do user
 https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
+
+ResearchGate
+https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white
+
+SoloLearn
+https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white
+
+Stack Overflow
+https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+
+TikTok
+https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
 -->
 
 <!--Hackearth e Rank
@@ -111,5 +136,43 @@ Leetcode
 https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
 -->
 
+<!-- 
+--- My Groups:
 
+- I run a Brazilian programming teaching server on discord
+https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+
+- I also run a Reddit server for people who wanna learn art and programming
+https://aleen42.github.io/badges/src/reddit.svg-->
+
+🔮<strong>Technology Stack</strong>:
+<br>
+<img witdth="30%" src=https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"/>
+<img witdth="30%" src=https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
+<img witdth="30%" src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img witdth="30%" src=https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+<br>
+<img witdth="30%" src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img witdth="30%" src=https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img witdth="30%" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br>
+<img witdth="30%" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img witdth="30%" src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img witdth="30%" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+
+🎨<strong>Art Stack</strong>:
+<br>
+<img witdth="30%" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
+<img witdth="30%" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+<img witdth="30%" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/>
+<br>
+<img witdth="30%" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
+<img witdth="30%" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+<img witdth="30%" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+<br>
+<img witdth="30%" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+<img witdth="30%" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+<img witdth="30%" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img witdth="30%" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/>
 
