@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=the4rcanist&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the4rcanist&langs_count=5&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the4rcanist&langs_count=5&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=the4rcanist&theme=tokyonight" />
