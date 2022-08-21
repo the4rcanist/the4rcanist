@@ -9,10 +9,12 @@ credits <a href="https://twitter.com/apostrophe_dot">APO+</a>
     <a href="#"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 </p>-->
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------   
   <p align="center">
     "Capivara do Mato Grosso do Sul, nasceu com um computador no berço, aprendeu à entrar nos joguinho de Flash da Internet no mesmo ano que aprendeu à subir em pé de manga. Estudante de Ciências da Computação na UNIFACVEST."
     </p>
+
+    
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=the4rcanist&show_icons=true&theme=tokyonight" />
