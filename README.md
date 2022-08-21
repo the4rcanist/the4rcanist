@@ -1,5 +1,9 @@
 ### Hello there 👋
-<img src="https://p5.itc.cn/q_70/images01/20210827/c18bb5b3e729498c86cfc11f9aa7ccc7.gif"/>
+<p align="center" width="100%">
+    <img width="33%" src="https://p5.itc.cn/q_70/images01/20210827/c18bb5b3e729498c86cfc11f9aa7ccc7.gif">
+</p>
+
+
 
 
 
