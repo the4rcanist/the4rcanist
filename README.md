@@ -26,7 +26,8 @@ credits <a href="https://rebeccamock.tumblr.com/">Rebecca Mock</a>
 - Currently Learning some Front End stuff
 - I am learning Japanese, French and Spanish on <img witdth="30%" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/>
 - Current doing the 100 days of code in Python
-- Current Dnd Class: Warlock
+- Current addicted to: Stardew Valley
+- Current Dnd Class: Hexblade Warlock
 - Curent Cyberpunk 2020 Role: Netrunner
 - And I often play on
 <img witdth="30%" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
