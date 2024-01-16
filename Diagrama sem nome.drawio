@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T22:14:22.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="rhHityLxvanbS78kvEvJ" version="22.1.19" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T22:29:29.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="ry1bftScQMD5dC3OISoy" version="22.1.19" type="github">
   <diagram name="PÃ¡gina-1" id="-78MK_t7vZxQyMquAhtc">
-    <mxGraphModel dx="2934" dy="2044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4214" dy="2919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3giS_aHEDe4D5QyPMY11-1" value="&lt;b&gt;Systems&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="20" width="120" height="60" as="geometry" />
+        <mxCell id="3giS_aHEDe4D5QyPMY11-1" value="&lt;b style=&quot;font-size: 28px;&quot;&gt;Systems&lt;br style=&quot;font-size: 28px;&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=28;" parent="1" vertex="1">
+          <mxGeometry x="265" y="-127" width="225" height="107" as="geometry" />
         </mxCell>
         <mxCell id="3giS_aHEDe4D5QyPMY11-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3giS_aHEDe4D5QyPMY11-2" target="3giS_aHEDe4D5QyPMY11-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -24,11 +24,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3giS_aHEDe4D5QyPMY11-3" value="Character Profile" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="70" width="120" height="80" as="geometry" />
+        <mxCell id="3giS_aHEDe4D5QyPMY11-3" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;&lt;u&gt;Character Profile&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=2;strokeWidth=8;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="-20" width="240" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="3giS_aHEDe4D5QyPMY11-4" value="Inventory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="430" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="3giS_aHEDe4D5QyPMY11-4" value="Inventory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=23;fontStyle=5;strokeWidth=7;" parent="1" vertex="1">
+          <mxGeometry x="380" y="80" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3giS_aHEDe4D5QyPMY11-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="3giS_aHEDe4D5QyPMY11-5" target="3giS_aHEDe4D5QyPMY11-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -37,8 +37,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3giS_aHEDe4D5QyPMY11-5" value="Shop" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="750" y="100" width="80" height="80" as="geometry" />
+        <mxCell id="3giS_aHEDe4D5QyPMY11-5" value="Shop" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;strokeWidth=7;fontSize=15;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="630" y="63" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="3giS_aHEDe4D5QyPMY11-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3giS_aHEDe4D5QyPMY11-4" target="3giS_aHEDe4D5QyPMY11-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -95,15 +95,18 @@
         <mxCell id="3giS_aHEDe4D5QyPMY11-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="3giS_aHEDe4D5QyPMY11-20" target="3giS_aHEDe4D5QyPMY11-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZELKORmVL3etqjtfRmJD-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3giS_aHEDe4D5QyPMY11-20" target="ZELKORmVL3etqjtfRmJD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3giS_aHEDe4D5QyPMY11-20" value="í ½í´µXp - when task = completed: variÃ¡vel value_xp na character list increase by x amount" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-470" y="200" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3giS_aHEDe4D5QyPMY11-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZELKORmVL3etqjtfRmJD-8" target="3giS_aHEDe4D5QyPMY11-3" edge="1">
+        <mxCell id="3giS_aHEDe4D5QyPMY11-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.062;entryY=0.814;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="ZELKORmVL3etqjtfRmJD-8" target="3giS_aHEDe4D5QyPMY11-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-130" y="630" />
-              <mxPoint x="354" y="630" />
-              <mxPoint x="354" y="150" />
+              <mxPoint x="-320" y="630" />
+              <mxPoint x="-260" y="630" />
+              <mxPoint x="-260" y="118" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -114,21 +117,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3giS_aHEDe4D5QyPMY11-26" value="&lt;div&gt;í ¾íº™Coin - when task completed, value coins na character list increase by x amount&lt;/div&gt;&lt;div&gt;4 tipos de coins - Copper, Silver, Gold, Platinum&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="ZELKORmVL3etqjtfRmJD-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3giS_aHEDe4D5QyPMY11-26" target="ZELKORmVL3etqjtfRmJD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3giS_aHEDe4D5QyPMY11-26" value="&lt;div&gt;í ¾íº™Coin - when task completed, value coins na character list increase by x amount&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-480" y="320" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="3giS_aHEDe4D5QyPMY11-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3giS_aHEDe4D5QyPMY11-30" target="3giS_aHEDe4D5QyPMY11-1" edge="1">
+        <mxCell id="3giS_aHEDe4D5QyPMY11-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3giS_aHEDe4D5QyPMY11-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="990" />
-              <mxPoint x="420" />
+              <mxPoint x="590" />
+              <mxPoint x="590" y="-127" />
             </Array>
+            <mxPoint x="490" y="-127" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3giS_aHEDe4D5QyPMY11-30" value="Achievements" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="950" y="100" width="80" height="80" as="geometry" />
+        <mxCell id="3giS_aHEDe4D5QyPMY11-30" value="Achievements" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=7;fontSize=15;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="940" y="58" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3giS_aHEDe4D5QyPMY11-31" value="When parametro x is achieved, then achievement x == true" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="3giS_aHEDe4D5QyPMY11-31" value="When parametro x is achieved, then achievement x == true" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="520" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3giS_aHEDe4D5QyPMY11-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3giS_aHEDe4D5QyPMY11-31" target="3giS_aHEDe4D5QyPMY11-30" edge="1">
@@ -137,21 +145,27 @@
         <mxCell id="3giS_aHEDe4D5QyPMY11-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3giS_aHEDe4D5QyPMY11-31" target="3giS_aHEDe4D5QyPMY11-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="610" />
+              <mxPoint x="280" y="610" />
+              <mxPoint x="280" y="65" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3giS_aHEDe4D5QyPMY11-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="3giS_aHEDe4D5QyPMY11-34" target="3giS_aHEDe4D5QyPMY11-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="224" />
+              <mxPoint x="685" y="224" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3giS_aHEDe4D5QyPMY11-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="3giS_aHEDe4D5QyPMY11-34" target="3giS_aHEDe4D5QyPMY11-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3giS_aHEDe4D5QyPMY11-34" value="Shop database" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="730" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="274" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3giS_aHEDe4D5QyPMY11-35" value="when item == bought, then coin - item value" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="730" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="3giS_aHEDe4D5QyPMY11-35" value="when item == bought, then coin - item value" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="620" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3giS_aHEDe4D5QyPMY11-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.834;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3giS_aHEDe4D5QyPMY11-35" target="3giS_aHEDe4D5QyPMY11-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -160,19 +174,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZELKORmVL3etqjtfRmJD-2" value="&lt;div&gt;1ï¸âƒ£Level = xp_value / 100&lt;/div&gt;&lt;div&gt;xp value starts in 0&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="-80" y="194" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZELKORmVL3etqjtfRmJD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZELKORmVL3etqjtfRmJD-4" target="ZELKORmVL3etqjtfRmJD-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZELKORmVL3etqjtfRmJD-4" value="&lt;div&gt;í ¾íº™Coins = coin_Value&lt;/div&gt;&lt;div&gt;Coin value starts in 0&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="-80" y="304" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZELKORmVL3etqjtfRmJD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZELKORmVL3etqjtfRmJD-6" target="ZELKORmVL3etqjtfRmJD-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZELKORmVL3etqjtfRmJD-6" value="&lt;div&gt;í ½í¿£Skill&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;= skill_Value&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="-80" y="414" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZELKORmVL3etqjtfRmJD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZELKORmVL3etqjtfRmJD-8" target="ZELKORmVL3etqjtfRmJD-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZELKORmVL3etqjtfRmJD-8" value="í ½í¿£Skills - when a task has a skill flag of x, completing it amounts an x value for that skill&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-480" y="494" width="160" height="90" as="geometry" />
@@ -262,6 +279,61 @@
         </mxCell>
         <mxCell id="ZELKORmVL3etqjtfRmJD-29" value="Day view" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-870" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZELKORmVL3etqjtfRmJD-43" value="Full range de skills do Training range e Abilities tbm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZELKORmVL3etqjtfRmJD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZELKORmVL3etqjtfRmJD-43" target="ZELKORmVL3etqjtfRmJD-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="435" />
+              <mxPoint x="60" y="470" />
+              <mxPoint x="39" y="470" />
+              <mxPoint x="39" y="482" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZELKORmVL3etqjtfRmJD-45" value="4 tipos de coins - Copper, Silver, Gold, Platinum" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZELKORmVL3etqjtfRmJD-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.025;entryY=0.369;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZELKORmVL3etqjtfRmJD-45" target="ZELKORmVL3etqjtfRmJD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZELKORmVL3etqjtfRmJD-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZELKORmVL3etqjtfRmJD-47" target="3giS_aHEDe4D5QyPMY11-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZELKORmVL3etqjtfRmJD-47" value="&lt;b&gt;&lt;u&gt;Extra stuff:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;- Proficiencies&lt;br&gt;- Languages&lt;br&gt;- Spells&lt;br&gt;- Blood Type&lt;br&gt;- Traits" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="82" y="178" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="ZELKORmVL3etqjtfRmJD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZELKORmVL3etqjtfRmJD-49" target="3giS_aHEDe4D5QyPMY11-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZELKORmVL3etqjtfRmJD-49" value="Holds the coins and the items based on their current value" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="340" y="244" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZELKORmVL3etqjtfRmJD-51" value="- itens mesmo&lt;br&gt;- ExperiÃªncias&lt;br&gt;- Viagens&lt;br&gt;- Other rewards" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="755" y="287" width="126" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="ZELKORmVL3etqjtfRmJD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.02;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZELKORmVL3etqjtfRmJD-51" target="3giS_aHEDe4D5QyPMY11-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="818" y="154" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZELKORmVL3etqjtfRmJD-53" value="- Lista de Achievements baseado em categorias, em hÃ¡bitos, em coisas q vc quer fazer, display on Character profile too" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="345" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZELKORmVL3etqjtfRmJD-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZELKORmVL3etqjtfRmJD-53" target="3giS_aHEDe4D5QyPMY11-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZELKORmVL3etqjtfRmJD-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.696;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZELKORmVL3etqjtfRmJD-53" target="3giS_aHEDe4D5QyPMY11-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="480" />
+              <mxPoint x="230" y="98" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
