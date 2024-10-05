@@ -11,7 +11,7 @@ credits <a href="https://rebeccamock.tumblr.com/">Rebecca Mock</a>
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------   
   <p align="center">
-    "Capybara from Mato Grosso do Sul, wanted to be a wizard, now studies Computer Science at <a href="https://www.unifacvest.edu.br/">UNIFACVEST</a> and does art as a hobby on her social media"
+    "Capybara from Mato Grosso do Sul, wanted to be a wizard, I now study Computer Science at <a href="https://www.unifacvest.edu.br/">UNIFACVEST</a>, I do art, 3D modeling and animation too."
     </p>
 
     
