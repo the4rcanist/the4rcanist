@@ -22,15 +22,13 @@ credits <a href="https://rebeccamock.tumblr.com/">Rebecca Mock</a>
 <br>
 
 💡<strong>Some things about me</strong>
-- I am currently working on <a href="https://github.com/the4rcanist/Cyberpunk-Corporations-Websites">Cyberpunk Corporations Websites</a> and <a href="https://github.com/the4rcanist/cyberpunk77-ingame-websites">Cyberpunk77 ingame websites</a>
-- Currently Learning some Front End stuff
-- I am learning Japanese, French and Spanish on <img witdth="30%" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/>
+- I am currently working on my TCC
+- Currently Learning Unreal Engine
+- I am (trying) to learn Spanish
 - Current doing the 100 days of code in Python
-- Current addicted to: Stardew Valley
-- Current Dnd Class: Hexblade Warlock
-- Curent Cyberpunk 2020 Role: Netrunner
+- Current addicted to: Core Keeper
+- Current Dnd Class: Hexblade Warlock, Bladesinger Wizard
 - And I often play on
-<img witdth="30%" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
 
