@@ -42,11 +42,8 @@ credits <a href="https://rebeccamock.tumblr.com/">Rebecca Mock</a>
 
 🛠<strong>IDE's I mainly use/used</strong>:
 <br>
-<img witdth="30%" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
-<img witdth="30%" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 <br>
-<img witdth="30%" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 💻<strong>OS's:</strong>
