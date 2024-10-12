@@ -52,7 +52,6 @@ credits <a href="https://rebeccamock.tumblr.com/">Rebecca Mock</a>
 <img witdth="30%" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 <br>
-<img witdth="30%" src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
@@ -97,13 +96,11 @@ https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&log
 
 <a href="https://www.behance.net/marypamplona"><img witdth="30%" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a> - Sharing some graphic design and interfaces experiments.
 <br>
-<a href="https://www.deviantart.com/arcaneebrush"><img witdth="30%" src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white"/></a> - Where I stash my digital art.
-<br>
 <a href="https://www.pinterest.com/the4rcanist/"><img witdth="30%" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/></a> - Where I save and share inspirations but also tutorials I find around the interwebs.
 <br>
 <a href="https://www.instagram.com/the4rcanist/"><img witdth="30%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> - Where I also stash my digital art plus some cat pictures.
 <br>
-<a href="https://www.linkedin.com/in/mary-pamplona-96a609172/"><img witdth="30%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> - well it's necessary isn't it
+<a href="https://www.linkedin.com/in/mary-pamplona-96a609172/"><img witdth="30%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
 <a href="https://www.reddit.com/user/the4rcanist"><img witdth="30%" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a> - commenting
 <br>
