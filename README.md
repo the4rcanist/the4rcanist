@@ -42,8 +42,6 @@ credits <a href="https://rebeccamock.tumblr.com/">Rebecca Mock</a>
 
 🛠<strong>IDE's I mainly use/used</strong>:
 <br>
-<img witdth="30%" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-<br>
 <img witdth="30%" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 💻<strong>OS's:</strong>
