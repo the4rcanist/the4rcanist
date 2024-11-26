@@ -22,16 +22,11 @@ credits <a href="https://rebeccamock.tumblr.com/">Rebecca Mock</a>
 <br>
 
 💡<strong>Some things about me</strong>
-- I am currently working on my TCC and a task list app.
-- Currently Learning Unreal Engine
-- I am trying to learn Spanish
-- Current doing the 100 days of code in Python
-- Current addicted to: Core Keeper
-- Current Dnd Class: Hexblade Warlock, Bladesinger Wizard
-- And I often play on
-<img witdth="30%" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
-<img witdth="30%" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-
+- Working on my TCC
+- Working on a Questboard app
+- Doing mods
+- Learning Spanish
+- Hexblade Warlock, Bladesinger Wizard
 
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------
