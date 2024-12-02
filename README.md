@@ -28,14 +28,13 @@ credits <a href="https://rebeccamock.tumblr.com/">Rebecca Mock</a>
 - Learning Spanish
 - Hexblade Warlock, Bladesinger Wizard
 
-
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the4rcanist&langs_count=5&theme=tokyonight&layout=compact" />
 </a>
 
-🛠<strong>IDE's I mainly use/used</strong>:
+🛠<strong>IDE I mainly use</strong>:
 <br>
 <img witdth="30%" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
