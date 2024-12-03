@@ -41,7 +41,6 @@ credits <a href="https://rebeccamock.tumblr.com/">Rebecca Mock</a>
 💻<strong>OS's:</strong>
 <br>
 <img witdth="30%" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img witdth="30%" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 <img witdth="30%" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 <br>
 <img witdth="30%" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
