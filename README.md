@@ -84,19 +84,11 @@ https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&log
 
 🌻<strong>Find me on:</strong>
 
-<a href="https://www.behance.net/marypamplona"><img witdth="30%" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a> - Sharing some graphic design and interfaces experiments.
+<a href="https://www.behance.net/marypamplona"><img witdth="30%" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
 <br>
-<a href="https://www.pinterest.com/the4rcanist/"><img witdth="30%" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/></a> - Where I save and share inspirations but also tutorials I find around the interwebs.
-<br>
-<a href="https://www.instagram.com/the4rcanist/"><img witdth="30%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> - Where I also stash my digital art plus some cat pictures.
+<a href="https://www.instagram.com/the4rcanist/"><img witdth="30%" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <br>
 <a href="https://www.linkedin.com/in/mary-pamplona-96a609172/"><img witdth="30%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br>
-<a href="https://www.reddit.com/user/the4rcanist"><img witdth="30%" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a> - commenting
-<br>
-<a href="https://the4rcanist.tumblr.com/"><img witdth="30%" src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"/></a> - being weird, also stash my digital art and sketchings there.
-<br>
-<a href="https://twitter.com/the4rcanist"><img witdth="30%" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> - being weird 2.0, also share sketches and art stuff.
 <br>
 
 
