@@ -14,7 +14,6 @@ credits <a href="https://rebeccamock.tumblr.com/">Rebecca Mock</a>
     “Doing code and art shenanigans"
     </p>
 
-    
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=the4rcanist&show_icons=true&theme=tokyonight" />
