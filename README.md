@@ -57,7 +57,6 @@ credits <a href="https://rebeccamock.tumblr.com/">Rebecca Mock</a>
     <img witdth="30%" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
     <img witdth="30%" src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/>
     
-
 <!--Playstore when I finish it
 - I create Android games for CRYOGEN on
 https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white and 
