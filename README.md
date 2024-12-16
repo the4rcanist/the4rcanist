@@ -3,7 +3,6 @@
     <img width="45%" src="https://64.media.tumblr.com/3410c84949b9dca78b91a5af6e235008/a59b5c83ea131d04-01/s400x600/5a6bf1f5497f0d4bc8d004ab75c64a30877ff082.gif">
 </p>
 credits <a href="https://rebeccamock.tumblr.com/">Rebecca Mock</a>
-
 <!--Linktree when I finish it
 <p align="center" width="10%">
     <a href="#"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
