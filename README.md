@@ -47,10 +47,6 @@ credits <a href="https://rebeccamock.tumblr.com/">Rebecca Mock</a>
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=the4rcanist&theme=tokyonight" />
-</a>
-
 🔍<strong>Browsers</strong>
 <br>
     <img witdth="30%" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/>
